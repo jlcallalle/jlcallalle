@@ -14,13 +14,6 @@ jlcallalle/jlcallalle is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Featured Projects
-
-- **Project Name 1** — Short one-line summary of what it does. (Stack: HTML, CSS, JavaScript)
-- **Project Name 2** — Short one-line summary of the problem it solves. (Stack: Vue.js, Sass)
-- **Project Name 3** — Short one-line summary of the impact or results. (Stack: WordPress, Bootstrap)
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
