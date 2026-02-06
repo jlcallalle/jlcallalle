@@ -2,20 +2,23 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@jlcallalle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jlcallalle)](https://twitter.com/jlcallalle) [![Linkedin Badge](https://img.shields.io/badge/-jlcallalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlcallalle/)](https://www.linkedin.com/in/jlcallalle/)
 
-Nice to meet you! I'm currently working at [Vass Latam](https://vasscompany.com/)  as a Front End developer.
+Nice to meet you! I'm currently working at [Vass Latam](https://vasscompany.com/) as a Front End developer.
 
-- 👋 Hi, I’m Peruviam, but I work with Mexico Teams 
-- 🌱 I’m currently learning more about Javascript and Vue JS
-- 💞️ I like write Sass, CSS, RWD and Performance Web
-- 📫 How to reach me in google @jlcallalle
+- 👋 Hi, I’m Peruvian, but I work with Mexican teams
+- 🌱 I’m currently learning more about JavaScript and Vue.js
+- 💞️ I like writing Sass, CSS, RWD, and web performance
+- 📫 How to reach me on Google: @jlcallalle
 
 <!---
 jlcallalle/jlcallalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcallalle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Featured Projects
+
+- **Project Name 1** — Short one-line summary of what it does. (Stack: HTML, CSS, JavaScript)
+- **Project Name 2** — Short one-line summary of the problem it solves. (Stack: Vue.js, Sass)
+- **Project Name 3** — Short one-line summary of the impact or results. (Stack: WordPress, Bootstrap)
 
 ---
 
